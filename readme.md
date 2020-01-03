@@ -65,11 +65,8 @@ Hide your IP address
 
 ## Search engines
 
-- [DuckDuckGo](https://duckduckgo.com) - Search engine that doesn't track you.
-- [Ixquick](https://www.ixquick.com/) - The world's most private search engine.
-- [Ahmia](https://ahmia.fi) - Tor search engine.
-- [Have I been pwned?](https://haveibeenpwned.com) - See if your email address has been found in a database hack.
-
+- [DuckDuckGo](https://duckduckgo.com) - Privacy focused search engine based in the U.S.
+- [Qwant](https://qwant.com) - Privacy focused search engine based in Europe.
 ## Web browsers
 
 - [Tor browser](https://www.torproject.org/projects/torbrowser.html.en) - Encrypted and anonymous web browsing.
