@@ -9,7 +9,7 @@
 - [Awesome Privacy](#awesome-privacy)
   - [Anonymous web browsing](#anonymous-web-browsing)
     - [Domain registration](#domain-registration)
-    - [VPN](#vpn)
+    - [VPN](#vpn)https://outlook.live.com/mail/0/inbox/id/AQQkADAwATY3ZmYAZS1mNzM4LWQwMzktMDACLTAwCgAQACZVyvqd5U9DqOBy32Lli7M%3D
     - [Mix networks (Tor, etc.)](#mix-networks-tor-etc)
     - [Http proxies](#http-proxies)
     - [Browser testing](#browser-testing)
@@ -70,11 +70,9 @@ Hide your IP address
 
 ## Web Browsers
 
-- [Tor browser](https://www.torproject.org/projects/torbrowser.html.en) - Encrypted and anonymous web browsing.
-- [Epic browser](https://www.epicbrowser.com) - Privacy focused web browser.
-- [Net runner](https://netrunner.cc) - To cater to powerusers and meet the demands of 4chan's /g.
-- [Cliqz](https://cliqz.com) - Ad blocking and private search mobile web browser.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Privacy-first web browser with lots of addons to further increase privacy
+- [Tor browser](https://www.torproject.org/projects/torbrowser.html.en) - Encrypted and anonymous web browser.
+- [Cliqz](https://cliqz.com) - Ad blocking and private search mobile web browser.
 
 ### Extensions & Plugins for Web Browsers
 
