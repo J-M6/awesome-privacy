@@ -1,4 +1,4 @@
-# Awesome Privacy
+sudo apt-get install libfreetype6-dev libharfbuzz-dev libglew-dev libglfw3-dev# Awesome Privacy
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -72,6 +72,7 @@ Hide your IP address
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Privacy-first web browser with lots of addons to further increase privacy
 - [Tor browser](https://www.torproject.org/projects/torbrowser.html.en) - Encrypted and anonymous web browser.
+- [Brave Browser](https://brave.com/) - Web browser with ad-blocking, tracker-blocking, and HTTPS upgrading
 - [Cliqz](https://cliqz.com) - Ad blocking and private search mobile web browser.
 
 ### Extensions & Plugins for Web Browsers
