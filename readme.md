@@ -9,7 +9,7 @@
 - [Awesome Privacy](#awesome-privacy)
   - [Anonymous web browsing](#anonymous-web-browsing)
     - [Domain registration](#domain-registration)
-    - [VPN](#vpn)https://outlook.live.com/mail/0/inbox/id/AQQkADAwATY3ZmYAZS1mNzM4LWQwMzktMDACLTAwCgAQACZVyvqd5U9DqOBy32Lli7M%3D
+    - [VPN](#vpn)
     - [Mix networks (Tor, etc.)](#mix-networks-tor-etc)
     - [Http proxies](#http-proxies)
     - [Browser testing](#browser-testing)
