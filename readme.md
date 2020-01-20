@@ -31,11 +31,11 @@
   - [Contribute](#contribute)
   - [License](#license)
 
-## Anonymous web browsing
+## Anonymous Web Browsing
 
 Hide your IP address
 
-### Domain registration
+### Domain Registration
 
 - [njal.la](https://njal.la/) - Anonymous domain registration by the founder of thepiratebay.
 
@@ -45,29 +45,30 @@ Hide your IP address
 - [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) - Guide for self hosting VPN on AWS with docker.
 - [DigitalOcean self hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - Guide for self hosted VPN on Digital Ocean.
 
-### Mix networks (Tor, etc.)
+### Mix Networks (Tor, etc.)
 
 - [Tor project](https://www.torproject.org) - Government grade anonymous web browsing.
 - [How to setup Tor relay](https://www.torproject.org/docs/tor-doc-relay.html.en) - Guide for setting up a Tor relay.
 - [Panoramix](https://panoramix-project.eu/) - Provide privacy via mix-networks (Tor alternative).``
 - [The Invisible Internet Project (I2P)](https://geti2p.net/en/) - Anonymous overlay network (Tor alternative).
 
-### Http proxies
+### HTTP Proxies
 
 [Don't use http proxies](https://www.defcon.org/images/defcon-17/dc-17-presentations/defcon-17-edward_zaborowski-doppelganger.pdf)
 
-### Browser testing
+### Browser Testing
 
 - [What is my IP address](http://whatismyipaddress.com/) - Check what IP is exposed to the internet.
 - [EFF browser privacy test](https://panopticlick.eff.org/tracker) - Test privacy settings of your web browser.
 - [Privacy checkup](https://ipinfo.info/html/privacy-check.php) - Test privacy / trackability of your web browser.
 - [Privacy test by Tenta](https://tenta.com/test/) - Test privacy settings on browser.
 
-## Search engines
+## Search Engines
 
 - [DuckDuckGo](https://duckduckgo.com) - Privacy focused search engine based in the U.S.
 - [Qwant](https://qwant.com) - Privacy focused search engine based in Europe.
-## Web browsers
+
+## Web Browsers
 
 - [Tor browser](https://www.torproject.org/projects/torbrowser.html.en) - Encrypted and anonymous web browsing.
 - [Epic browser](https://www.epicbrowser.com) - Privacy focused web browser.
@@ -75,7 +76,7 @@ Hide your IP address
 - [Cliqz](https://cliqz.com) - Ad blocking and private search mobile web browser.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Privacy-first web browser with lots of addons to further increase privacy
 
-### Extensions & plugins for web browsers
+### Extensions & Plugins for Web Browsers
 
 - [User agent changer](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US) - Change user agent to prevent browser finger printing.
 - [Privacy badger - EFF](https://www.eff.org/privacybadger) - Block ads and other tracking services.
@@ -87,12 +88,12 @@ Hide your IP address
 - [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) - Deletes unnused cookies on tab close
 - [Firefox Profilemaker](https://ffprofile.com/) - Creates privacy focused Firefox profiles
 
-## Host file optimizations
+## Hosts File Optimizations
 
 - [How to make the internet not suck (as much)](http://someonewhocares.org/hosts/) - Block domains at host file level for faster more private web browsing.
 - [Hosts (GitHub project)](https://github.com/StevenBlack/hosts) - List of malicious domains to block in host file.
 
-## Linux distros
+## Linux Distros
 
 - [Tails OS](https://tails.boum.org/) - Live operating system that you can start on almost any computer. It aims at preserving your privacy and anonymity.
 - [Qubes OS](https://www.qubes-os.org/) - Reasonably secure operating system.
@@ -124,17 +125,17 @@ Hide your IP address
 - [Mailbox.org](https://mailbox.org) - Based in Germany – 2 GB storage
 - [Mail-in-a-box](https://mailinabox.email/) - Host your own email on your own server
 
-### Password managment
+### Password Management
 
 - [LastPass](https://www.lastpass.com/) - Password management.
 - [1Password](https://1password.com/) - Password management.
-- [Keepass](http://keepass.info/) - Open source password management.
+- [Keepass](http://keepass.info/) - Open shttps://outlook.live.com/mail/0/inbox/id/AQQkADAwATY3ZmYAZS1mNzM4LWQwMzktMDACLTAwCgAQACZVyvqd5U9DqOBy32Lli7M%3Dource password management.
 - [Passbolt](https://www.passbolt.com/) - Open source password management.
 - [PasswordStore](https://www.passwordstore.org/) - Open source password management using `gpg` to encrypt passwords.
 - [BitWarden](https://bitwarden.com) - Open source password management.
 - [LessPass](https://lesspass.com/) - No sync password management
 
-### Burner electronics
+### Burner Electronics
 
 - [Craigslist](https://craigslist.com) - Meet people in real life to purchase physical electronics.
 - [Freecycle](https://www.freecycle.org/) - Free electronics for sale.
@@ -149,7 +150,7 @@ Hide your IP address
 - [Over the counter btc](https://bitcoin-otc.com/) - Marketplace for people to conduct over-the-counter trading in bitcoin currency.
 - [CoinJoin](https://en.bitcoin.it/wiki/CoinJoin) - Bitcoin transaction compression which aims to improve privacy.
 
-## File hosting
+## File Hosting
 
 ### Backup
 
