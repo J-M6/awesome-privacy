@@ -126,12 +126,12 @@ Hide your IP address
 
 ### Password Management
 
+- [BitWarden](https://bitwarden.com) - Open source password management.
 - [LastPass](https://www.lastpass.com/) - Password management.
 - [1Password](https://1password.com/) - Password management.
-- [Keepass](http://keepass.info/) - Open shttps://outlook.live.com/mail/0/inbox/id/AQQkADAwATY3ZmYAZS1mNzM4LWQwMzktMDACLTAwCgAQACZVyvqd5U9DqOBy32Lli7M%3Dource password management.
+- [Keepass](http://keepass.info/) - Open source password management.
 - [Passbolt](https://www.passbolt.com/) - Open source password management.
 - [PasswordStore](https://www.passwordstore.org/) - Open source password management using `gpg` to encrypt passwords.
-- [BitWarden](https://bitwarden.com) - Open source password management.
 - [LessPass](https://lesspass.com/) - No sync password management
 
 ### Burner Electronics
